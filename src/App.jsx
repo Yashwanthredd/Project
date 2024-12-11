@@ -1,12 +1,13 @@
-import { useState } from 'react'
+import Section1 from './Pages/Home/section1';
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
-    <>
-      <h1>Comanager app</h1>
-    </>
+    <div>
+      
+      <Section1 />
+    </div>
   )
 }
 
