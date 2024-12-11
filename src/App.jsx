@@ -1,14 +1,11 @@
-import Section1 from './Pages/Home/section1';
+import Navigation from "./routers/Navigation";
 
 function App() {
-  
-
   return (
-    <div>
-      
-      <Section1 />
-    </div>
-  )
+    <>
+      <Navigation />
+    </>
+  );
 }
 
-export default App
+export default App;
