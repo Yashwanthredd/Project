@@ -1,0 +1,60 @@
+.text-1 {
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 42.19px;
+    color: #1A7FC1;
+}
+
+.text-1 .center-word {
+    display: flex;
+    justify-content: center;
+}
+
+.text-2 {
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #676767;
+}
+
+
+.cardBox {
+    background-color: #E4F4FF;
+}
+
+.grid-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+.cardBox-1 {
+    height: 400px;
+}
+
+.cardBox-1 .cardBox-text {
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 46px;
+}
+
+.cardBox-text span {
+    font-size: 17px;
+    font-weight: 500;
+    color: #848199;
+}
+
+.cardBox-1 .cardBox-text2 {
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.cardBox-1 .cardBox-text3 {
+    font-size: 14px;
+    font-weight: 500;
+    color: #848199;
+}
